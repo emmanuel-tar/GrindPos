@@ -1,0 +1,10 @@
+{
+  "name": "RestoFlow ERP MVP",
+  "description": "Enterprise restaurant ERP system featuring POS with modifiers & split check, real-time Kitchen Display System (KDS), Floor & Table Management, Recipe BOM Inventory, full Procurement & Purchasing lifecycle (POs, Delivery Notes/GRN, 3-Way Match Invoices, Debit Notes), Accounting GL sync (QuickBooks/Sage), HR & Payroll sync (Gusto/ADP), Delivery Dispatch APIs, and Gemini AI operations copilot.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
